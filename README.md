@@ -40,7 +40,7 @@ $ docker-compose up
 [Spring Boot + GraphQL + MongoDB example with Spring Data & graphql-java] (https://www.bezkoder.com/spring-boot-graphql-mongodb-example-graphql-java/)
 
 
-To configure Grafana use:
+To configure Grafana use (localhost:3000):
 - User and password: admin
 - Configure DataSource as Prometheus: http://prometheus-service:9090
 - DashBoard ID for Java (micrometer): 4701
